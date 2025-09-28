@@ -1,0 +1,155 @@
+Category,Problem,Status
+Python & OOP (Basics),OOP Class + Inheritance exercise,Not Started
+Python & OOP (Basics),"LinkedList Implementation (append, delete, reverse)",Not Started
+Python & OOP (Basics),Python Generator with yield,Not Started
+Python & OOP (Basics),"Context Manager (__enter__, __exit__)",Not Started
+Python & OOP (Basics),Decorator for logging runtime,Not Started
+Python & OOP (Basics),Dataclasses usage,Not Started
+Python & OOP (Basics),Comprehensions + map/filter/reduce,Not Started
+Python & OOP (Basics),Typing module practice,Not Started
+Python & OOP (Basics),CSV/JSON read/write,Not Started
+Python & OOP (Basics),Mini REST API with Flask/FastAPI,Not Started
+Arrays & Two Pointers,Two Sum,Not Started
+Arrays & Two Pointers,Best Time to Buy and Sell Stock,Not Started
+Arrays & Two Pointers,Contains Duplicate,Not Started
+Arrays & Two Pointers,Product of Array Except Self,Not Started
+Arrays & Two Pointers,Maximum Subarray,Not Started
+Arrays & Two Pointers,3Sum,Not Started
+Arrays & Two Pointers,3Sum Closest,Not Started
+Arrays & Two Pointers,Container With Most Water,Not Started
+Arrays & Two Pointers,Move Zeroes,Not Started
+Arrays & Two Pointers,Merge Intervals,Not Started
+Arrays & Two Pointers,Insert Interval,Not Started
+Arrays & Two Pointers,Meeting Rooms II,Not Started
+Arrays & Two Pointers,Longest Consecutive Sequence,Not Started
+Arrays & Two Pointers,Sliding Window Maximum,Not Started
+Arrays & Two Pointers,Minimum Size Subarray Sum,Not Started
+Arrays & Two Pointers,Subarray Sum Equals K,Not Started
+Arrays & Two Pointers,Valid Mountain Array,Not Started
+Arrays & Two Pointers,Valid Palindrome,Not Started
+Arrays & Two Pointers,Squares of a Sorted Array,Not Started
+Arrays & Two Pointers,Sort Colors,Not Started
+Strings,Valid Anagram,Not Started
+Strings,Group Anagrams,Not Started
+Strings,Longest Substring Without Repeating Characters,Not Started
+Strings,Longest Palindromic Substring,Not Started
+Strings,Palindrome Partitioning,Not Started
+Strings,Implement strStr(),Not Started
+Strings,Count and Say,Not Started
+Strings,Multiply Strings,Not Started
+Strings,Minimum Window Substring,Not Started
+Strings,Longest Common Prefix,Not Started
+Strings,Valid Parentheses,Not Started
+Strings,Simplify Path,Not Started
+Strings,ZigZag Conversion,Not Started
+Strings,Decode Ways,Not Started
+Strings,Roman to Integer / Integer to Roman,Not Started
+Strings,Reorganize String,Not Started
+Strings,Word Search,Not Started
+Strings,Word Ladder,Not Started
+Hashing / Maps / Sets,Top K Frequent Elements,Not Started
+Hashing / Maps / Sets,Valid Sudoku,Not Started
+Hashing / Maps / Sets,Intersection of Two Arrays,Not Started
+Hashing / Maps / Sets,Group Shifted Strings,Not Started
+Hashing / Maps / Sets,LRU Cache,Not Started
+Hashing / Maps / Sets,Subarray Sum Equals K,Not Started
+Hashing / Maps / Sets,Design Twitter / TinyURL,Not Started
+Hashing / Maps / Sets,Longest Consecutive Sequence,Not Started
+Hashing / Maps / Sets,Happy Number,Not Started
+Hashing / Maps / Sets,Find All Anagrams in a String,Not Started
+Hashing / Maps / Sets,Minimum Index Sum of Two Lists,Not Started
+Linked List,Reverse Linked List,Not Started
+Linked List,Merge Two Sorted Lists,Not Started
+Linked List,Add Two Numbers,Not Started
+Linked List,Linked List Cycle,Not Started
+Linked List,Flatten a Multilevel Doubly Linked List,Not Started
+Linked List,Remove Nth Node From End of List,Not Started
+Linked List,Reorder List,Not Started
+Linked List,Copy List with Random Pointer,Not Started
+Linked List,Intersection of Two Linked Lists,Not Started
+Linked List,Odd Even Linked List,Not Started
+Linked List,Sort List,Not Started
+Linked List,Rotate List,Not Started
+Stacks & Queues,Min Stack,Not Started
+Stacks & Queues,Evaluate Reverse Polish Notation,Not Started
+Stacks & Queues,Daily Temperatures,Not Started
+Stacks & Queues,Sliding Window Maximum,Not Started
+Stacks & Queues,Implement Queue using Stacks,Not Started
+Stacks & Queues,Number of Islands (BFS/DFS),Not Started
+Stacks & Queues,Topological Sort (Kahn’s),Not Started
+Trees & Binary Trees,Binary Tree Inorder Traversal,Not Started
+Trees & Binary Trees,Binary Tree Preorder/Postorder,Not Started
+Trees & Binary Trees,Maximum Depth of Binary Tree,Not Started
+Trees & Binary Trees,Validate Binary Search Tree,Not Started
+Trees & Binary Trees,Symmetric Tree,Not Started
+Trees & Binary Trees,Level Order Traversal,Not Started
+Trees & Binary Trees,Binary Tree Zigzag Level Order,Not Started
+Trees & Binary Trees,Path Sum,Not Started
+Trees & Binary Trees,Sum Root to Leaf Numbers,Not Started
+Trees & Binary Trees,Binary Tree Maximum Path Sum,Not Started
+Trees & Binary Trees,Construct Binary Tree from Preorder and Inorder,Not Started
+Trees & Binary Trees,Serialize and Deserialize Binary Tree,Not Started
+Trees & Binary Trees,Convert Sorted Array to BST,Not Started
+Trees & Binary Trees,Lowest Common Ancestor of a Binary Tree,Not Started
+Trees & Binary Trees,Kth Smallest Element in a BST,Not Started
+Trees & Binary Trees,Binary Search Tree Iterator,Not Started
+Trees & Binary Trees,Flatten Binary Tree to Linked List,Not Started
+Trees & Binary Trees,Populating Next Right Pointers in Each Node,Not Started
+Trees & Binary Trees,Count Univalue Subtrees,Not Started
+Trees & Binary Trees,Balanced Binary Tree,Not Started
+Heaps & Priority Queue,Kth Largest Element in an Array,Not Started
+Heaps & Priority Queue,Merge k Sorted Lists,Not Started
+Heaps & Priority Queue,Find Median from Data Stream,Not Started
+Heaps & Priority Queue,Sliding Window Median,Not Started
+Graphs,Clone Graph,Not Started
+Graphs,Course Schedule,Not Started
+Graphs,Course Schedule II,Not Started
+Graphs,Minimum Height Trees,Not Started
+Graphs,Network Delay Time,Not Started
+Graphs,Longest Increasing Path in a Matrix,Not Started
+Graphs,Sum of Distances in Tree,Not Started
+Graphs,Cheapest Flights Within K Stops,Not Started
+Graphs,Graph Valid Tree,Not Started
+Graphs,Alien Dictionary,Not Started
+Graphs,Critical Connections in a Network,Not Started
+Graphs,Number of Connected Components,Not Started
+Graphs,Evaluate Division,Not Started
+Graphs,Pacific Atlantic Water Flow,Not Started
+Dynamic Programming,Climbing Stairs,Not Started
+Dynamic Programming,House Robber,Not Started
+Dynamic Programming,House Robber II,Not Started
+Dynamic Programming,Coin Change,Not Started
+Dynamic Programming,Longest Increasing Subsequence,Not Started
+Dynamic Programming,Word Break,Not Started
+Dynamic Programming,Partition Equal Subset Sum,Not Started
+Dynamic Programming,Decode Ways,Not Started
+Dynamic Programming,Unique Paths,Not Started
+Dynamic Programming,Best Time to Buy and Sell Stock with Cooldown,Not Started
+Dynamic Programming,Minimum Path Sum,Not Started
+Dynamic Programming,Palindromic Substrings,Not Started
+Dynamic Programming,Interleaving String,Not Started
+Dynamic Programming,Longest Palindromic Subsequence,Not Started
+Dynamic Programming,Edit Distance,Not Started
+Dynamic Programming,Target Sum,Not Started
+Dynamic Programming,Matrix Chain Multiplication,Not Started
+Dynamic Programming,Dungeon Game,Not Started
+Backtracking,Subsets,Not Started
+Backtracking,Permutations,Not Started
+Backtracking,Combination Sum,Not Started
+Backtracking,Word Search,Not Started
+Backtracking,N-Queens,Not Started
+Backtracking,Restore IP Addresses,Not Started
+Backtracking,Letter Combinations of a Phone Number,Not Started
+Backtracking,Generate Parentheses,Not Started
+Math & Bit Manipulation,Single Number,Not Started
+Math & Bit Manipulation,Single Number II / III,Not Started
+Math & Bit Manipulation,Reverse Integer,Not Started
+Math & Bit Manipulation,Maximum XOR of Two Numbers in an Array,Not Started
+Math & Bit Manipulation,Power of Two / Count Bits,Not Started
+Math & Bit Manipulation,Gray Code,Not Started
+Misc / Design,Design Tic-Tac-Toe / Parking Lot,Not Started
+Misc / Design,Design Add and Search Word,Not Started
+Misc / Design,Design Twitter,Not Started
+Misc / Design,LRU Cache (Design),Not Started
+Misc / Design,Design TinyURL,Not Started
+Misc / Design,Design a rate limiter (token bucket),Not Started
